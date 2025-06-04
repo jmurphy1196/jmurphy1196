@@ -1,4 +1,4 @@
-👋 Hi there! I'm Jason Murphy, a passionate Full-Stack Developer who recently graduated from App Academy's intensive 6-month coding bootcamp.
+👋 Hi there! I'm Jason Murphy, a passionate Full-Stack Developer.
 
 📍 **Location**: Tuolumne, CA
 
